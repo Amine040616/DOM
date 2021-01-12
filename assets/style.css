@@ -1,0 +1,42 @@
+.prod{
+    width:300px;
+}
+img{
+    width: 30px;
+}
+input{
+    width: 75px;
+    height: 20px;
+}
+ul{
+    list-style: none;
+}
+li{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 1px solid black;
+    
+}
+.commande{
+    display: flex;
+    flex-direction: row;
+}
+p{
+    text-align: center;
+    margin:  0px;
+}
+.quantit{
+    width: 55px;
+    height: 25px;
+    border: 1px solid black;
+    font-size: 16pt;
+    text-align: center;
+}
+.pu{
+    font-size: 16pt;
+}
+.liko{
+    color: black;
+}
